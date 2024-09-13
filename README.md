@@ -34,7 +34,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/47A248" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFD" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/059BE5" height="30" alt="firebase logo"  />
+  
 
 </div>
 

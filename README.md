@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/#000000" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/47A248" height="30" alt="mongodb logo"  />
 
 </div>
 

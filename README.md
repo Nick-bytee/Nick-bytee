@@ -33,6 +33,9 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/#000000" height="30" alt="mongodb logo"  />
+
 </div>
 
 ###

@@ -52,6 +52,14 @@
   </a>
 </div>
 
+### Something for the talk
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
+
 ###
 
 <br clear="both">

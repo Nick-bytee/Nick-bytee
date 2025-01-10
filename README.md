@@ -36,7 +36,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFD" height="30" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/059BE5" height="30" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/css/FFFFFD" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="v/firebase/059BE5" height="30" alt="firebase logo"  />
+  
   
 
 </div>
